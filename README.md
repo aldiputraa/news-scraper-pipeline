@@ -12,3 +12,4 @@ Proyek ini adalah demonstrasi pipeline data sederhana menggunakan **Python** unt
 2. Jalankan skrip: `python3 scraper.py`
 # news-scraper-pipeline
 # news-scraper-pipeline
+# news-scraper-pipeline
