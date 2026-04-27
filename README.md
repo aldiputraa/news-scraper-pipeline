@@ -10,3 +10,4 @@ Proyek ini adalah demonstrasi pipeline data sederhana menggunakan **Python** unt
 ### Cara Menjalankan:
 1. Install dependencies: `pip install -r requirements.txt`
 2. Jalankan skrip: `python3 scraper.py`
+# news-scraper-pipeline
